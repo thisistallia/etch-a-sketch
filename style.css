@@ -13,4 +13,9 @@
     height: 30px;
     background-color: #f0f0f0;
     border: 1px solid black;
+    transition: background-color 0.2s;
+}
+
+.square:hover {
+    background-color: #666;
 }
