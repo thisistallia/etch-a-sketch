@@ -19,3 +19,8 @@
 .square:hover {
     background-color: #666;
 }
+
+#resizeButton {
+    display: block;
+    margin: 20px auto;
+}
